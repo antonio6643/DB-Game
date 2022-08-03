@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AnimationHandler
+comment1.params=entity\ frames\ delayMS
+comment1.target=AnimationHandler(Fighter,\ java.lang.String[],\ long)
+comment2.params=
+comment2.target=void\ solve()
+comment3.params=
+comment3.target=boolean\ hasCompleted()
+numComments=4

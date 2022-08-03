@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Knutility
+comment1.params=n\ min\ max
+comment1.target=int\ clampInteger(int,\ int,\ int)
+comment1.text=\r\n\ Ensure\ an\ integer\ n\ is\ within\ the\ range\ [min,\ max]\r\n\ \r\n\ @param\ \ n\ \ \ The\ number\ you\ want\ to\ be\ clamped\r\n\ @param\ \ min\ The\ minimum\ value\ the\ number\ should\ be\r\n\ @param\ \ max\ The\ maximum\ value\ the\ number\ should\ be\r\n\ \r\n\ @return\ Integer\ n\ if\ the\ integer\ is\ in\ the\ range\ or\ min/max\r\n
+comment2.params=
+comment2.target=long\ tick()
+comment2.text=\r\n\ Get\ number\ of\ milliseconds\ since\ UNIX\ epoch\r\n\r\n\ @return\ Number(long)\ of\ milliseconds\ since\ January\ 1st,\ 1970\r\n
+comment3.params=ms
+comment3.target=java.lang.String\ formatTimestamp(long)
+comment3.text=\r\n\ Convert\ milliseconds\ to\ a\ valid\ timestamp\r\n\r\n\ @param\ ms\ The\ millisecond\ duration\r\n\ @return\ A\ String\ timestamp\ based\ on\ the\ millisecond\ duration\r\n
+numComments=4

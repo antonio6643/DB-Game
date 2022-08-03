@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EndScreen
+comment1.params=winner\ fightStart
+comment1.target=EndScreen(int,\ long)
+numComments=2
